@@ -672,3 +672,9 @@
 }.u-section-6 .u-sheet-1 {
   min-height: 200px;
 }
+
+@media (max-width: 575px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 13px;
+  }
+}
