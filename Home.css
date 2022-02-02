@@ -258,14 +258,6 @@
     width: 320px;
     height: 180px;
   }
-} .u-section-3 {
-  min-height: 191px;
-}
-
-@media (max-width: 575px) {
-   .u-section-3 {
-    min-height: 13px;
-  }
 }html {
 	scroll-behavior: smooth;
 }
